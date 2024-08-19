@@ -1,13 +1,25 @@
+* {
+    padding: 6px;
+    box-sizing: border-box;
+}
+
 h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+img {
+    margin: 20px;
+}
+
 h2 {
-    background-color: blue;
+    background-color: black;
     color: white;
+    padding: 8px;
 }
 
 li a {
     font-size: 20px;
-    color: red;
+    color: blue;
+    display: inline;
+    background-color: aqua;
 }
