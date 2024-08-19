@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: white;
+    background-color: red;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 30px;
+}
+
+ol li {
+    color: green;
+}
+
+ul li {
+    color: blue;
+}
